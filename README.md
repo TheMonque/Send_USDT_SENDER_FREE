@@ -11,7 +11,7 @@ Best USDT Flashing Software – Coin Flashr
 Coin Flashr is an advanced USDT flashing software designed for executing BTC and USDT flashing transactions with multiple blockchain variants, including:
 
 ✔ Bitcoin Variants: Bitcoin Fantom, Wrapped Bitcoin (WBTC), and more
-✔ USDT Networks: ERC20, BEP20, TRC20
+✔ USDT Networks: ERC20, BEP20
 
 Why Use Coin Flashr for Flash Transactions?
 Easy Setup: No technical expertise required
